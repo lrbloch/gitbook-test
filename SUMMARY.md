@@ -6,6 +6,10 @@
 
 * [Curriculum Development Process Overview](curriculum-development/curriculum-development-process-overview.md)
 
+## Learning Management Systems \(LMS\)
+
+* [Learning Management Systems \(LMS\) Overview](learning-management-systems-lms/learning-management-systems-lms-overview.md)
+
 ## Calendar Use
 
 * [Calendar Use Overview](calendar-use/calendar-use-overview.md)

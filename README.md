@@ -13,14 +13,14 @@ description: >-
 * Reviewing
 * LMS implementation
 
-**LMS**
+\*\*\*\*[**Learning Management Systems \(LMS\) Overview**](learning-management-systems-lms/learning-management-systems-lms-overview.md)
 
 * User management
 * Creating courses
 * Concluding courses
 * Making changes
 
-**Calendar**
+\*\*\*\*[**Calendar**](calendar-use/calendar-use-overview.md)
 
 * Creating calendars
 * Using calendars
