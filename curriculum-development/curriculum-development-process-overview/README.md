@@ -6,19 +6,20 @@ description: >-
 
 # Curriculum Development
 
-{% tabs %}
-{% tab title="First Tab" %}
+In this section:
 
-{% endtab %}
+* [Curriculum development roles](untitled.md)
+* [Curriculum development process](curriculum-development-process.md)
+* [Curriculum review process](curriculum-review-process.md)
+* [Curriculum development resources](curriculum-development-resouces.md)
 
-{% tab title="Second Tab" %}
+## Overview
 
-{% endtab %}
-{% endtabs %}
+We use backwards design and agile methodology to design and develop curriculum through iteration.
 
-Overview
+The following sections describe...
 
-{% embed url="https://codepen.io/adamjhuston/pen/YzNMMJm" %}
+
 
 
 
