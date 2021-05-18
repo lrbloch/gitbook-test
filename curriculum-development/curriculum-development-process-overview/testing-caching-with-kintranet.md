@@ -1,2 +1,0 @@
-# Testing caching with Kintranet
-

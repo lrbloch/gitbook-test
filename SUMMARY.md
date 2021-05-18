@@ -5,7 +5,6 @@
 ## Curriculum Development
 
 * [Curriculum Development](curriculum-development/curriculum-development-process-overview/README.md)
-  * [Testing caching with Kintranet](curriculum-development/curriculum-development-process-overview/testing-caching-with-kintranet.md)
   * [Curriculum development roles](curriculum-development/curriculum-development-process-overview/untitled.md)
   * [Curriculum development process](curriculum-development/curriculum-development-process-overview/curriculum-development-process.md)
   * [Curriculum review process](curriculum-development/curriculum-development-process-overview/curriculum-review-process.md)
