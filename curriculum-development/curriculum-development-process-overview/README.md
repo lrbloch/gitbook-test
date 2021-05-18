@@ -4,7 +4,7 @@ description: >-
   this documentation
 ---
 
-# Curriculum Development Process Overview
+# Curriculum Development
 
 {% tabs %}
 {% tab title="First Tab" %}

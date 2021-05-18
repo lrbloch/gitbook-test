@@ -1,2 +1,2 @@
-# Slack Use Overview
+# Slack Use
 

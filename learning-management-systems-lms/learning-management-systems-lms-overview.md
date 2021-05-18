@@ -1,2 +1,2 @@
-# Learning Management Systems \(LMS\) Overview
+# Learning Management Systems \(LMS\)
 

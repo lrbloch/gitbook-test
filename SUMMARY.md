@@ -4,24 +4,27 @@
 
 ## Curriculum Development
 
-* [Curriculum Development Process Overview](curriculum-development/curriculum-development-process-overview.md)
-* [Untitled](curriculum-development/untitled.md)
+* [Curriculum Development](curriculum-development/curriculum-development-process-overview/README.md)
+  * [Curriculum development roles](curriculum-development/curriculum-development-process-overview/untitled.md)
+  * [Curriculum development process](curriculum-development/curriculum-development-process-overview/curriculum-development-process.md)
+  * [Curriculum review process](curriculum-development/curriculum-development-process-overview/curriculum-review-process.md)
+  * [Curriculum development resouces](curriculum-development/curriculum-development-process-overview/curriculum-development-resouces.md)
 
 ## Learning Management Systems \(LMS\)
 
-* [Learning Management Systems \(LMS\) Overview](learning-management-systems-lms/learning-management-systems-lms-overview.md)
+* [Learning Management Systems \(LMS\)](learning-management-systems-lms/learning-management-systems-lms-overview.md)
 
 ## Calendar Use
 
-* [Calendar Use Overview](calendar-use/calendar-use-overview.md)
+* [Calendar Use](calendar-use/calendar-use-overview.md)
 
 ## Slack Use
 
-* [Slack Use Overview](slack-use/slack-use-overview.md)
+* [Slack Use](slack-use/slack-use-overview.md)
 
 ## Data Management
 
-* [Data Management overview](data-management/data-management-overview.md)
+* [Data Management](data-management/data-management-overview.md)
 
 ## Sandbox
 

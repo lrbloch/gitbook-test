@@ -6,7 +6,7 @@ description: >-
 
 # Process Documentation Overview
 
-\*\*\*\*[**Curriculum Development**](curriculum-development/curriculum-development-process-overview.md)
+\*\*\*\*[**Curriculum Development**](curriculum-development/curriculum-development-process-overview/)
 
 * Curriculum development roles
 * Curriculum development process
