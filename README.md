@@ -6,33 +6,40 @@ description: >-
 
 # Process Documentation Overview
 
-\*\*\*\*[**Curriculum development**](curriculum-development/curriculum-development-process-overview.md)
+\*\*\*\*[**Curriculum Development**](curriculum-development/curriculum-development-process-overview.md)
 
-* Designing
-* Developing
-* Reviewing
-* LMS implementation
+* Curriculum development roles
+* Curriculum development process
+* Curriculum review process
+* Curriculum development resources
 
-\*\*\*\*[**Learning Management Systems \(LMS\) Overview**](learning-management-systems-lms/learning-management-systems-lms-overview.md)
+\*\*\*\*[**LMS Management**](learning-management-systems-lms/learning-management-systems-lms-overview.md)
 
-* User management
-* Creating courses
-* Concluding courses
-* Making changes
+* Course Setup
+* Course Content Management
+* New Cohort Process
+* Cohort Staff Transition Process
 
-\*\*\*\*[**Calendar**](calendar-use/calendar-use-overview.md)
+\*\*\*\*[**Calendar Use**](calendar-use/calendar-use-overview.md)
 
-* Creating calendars
-* Using calendars
-* Managing calendars
+* Accessing and using School calendars
+* Accessing and using Cohort calendars
+* Creating Cohort calendars
+* Embedding Cohort calendars
 
-**Slack**
+\*\*\*\*[**Slack Use**](slack-use/slack-use-overview.md)\*\*\*\*
 
-* User management
+* Users and user groups
 * Channel management
-* Policies and Enforcement
+* Behavior and use policies
+* Enforcement
 
-**Airtable**
+[Data Management](data-management/data-management-overview.md)
 
-**Hubspot**
+* Platforms
+* Instruction Reports
+* Academic Reporting and Feedback
+* Student Services
+
+\*\*\*\*
 

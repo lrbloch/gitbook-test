@@ -5,6 +5,7 @@
 ## Curriculum Development
 
 * [Curriculum Development Process Overview](curriculum-development/curriculum-development-process-overview.md)
+* [Untitled](curriculum-development/untitled.md)
 
 ## Learning Management Systems \(LMS\)
 
@@ -13,6 +14,10 @@
 ## Calendar Use
 
 * [Calendar Use Overview](calendar-use/calendar-use-overview.md)
+
+## Slack Use
+
+* [Slack Use Overview](slack-use/slack-use-overview.md)
 
 ## Data Management
 
