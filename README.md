@@ -6,6 +6,14 @@ description: >-
 
 # Process Documentation Overview
 
+## 👋 Hello, and welcome to the Process Documentation!
+
+This is a **living document** intended to be a centralized resource for Academic processes. Its best use will be frequent: its delivery should be clear, concise, and actionable.
+
+The primary focus of these pages is to document technical capabilities and operational processes that must be maintained in order to run our school. While much of this documentation is useful to the entire company, it will avoid describing non-academic operational processes, such as Admissions, Marketing, and Finance. Background information explaining the state of process development will be included, when possible.
+
+### Contents
+
 {% tabs %}
 {% tab title="Curriculum" %}
 #### [Curriculum Development](curriculum-development/curriculum-development-process-overview/)
@@ -59,4 +67,15 @@ description: >-
 * Maintaining this documentation
 {% endtab %}
 {% endtabs %}
+
+### Use this manual to:
+
+* orient yourself on Learning Science and Academic Operations processes
+* train your coworkers
+* analyze and improve processes
+* communicate about your processes
+
+### A Living Document
+
+As a living document, Kenzie team members are encouraged to contribute missing information, improve instructions, add background information, or suggest improvements to these processes. New pages may be necessary, and new uses may be imagined beyond this document's initial intention.
 
