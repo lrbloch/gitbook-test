@@ -44,9 +44,9 @@
 ## Backmatter
 
 * [Platform Access](backmatter/platform-access.md)
+* [API Methods](backmatter/api-methods/README.md)
+  * [Hubspot](backmatter/api-methods/hubspot.md)
+  * [Canvas](backmatter/api-methods/canvas.md)
+  * [AirTable](backmatter/api-methods/airtable.md)
 * [Maintaining this documentation](backmatter/maintaining-this-documentation.md)
-
----
-
-* [API Methods](api-methods.md)
 
