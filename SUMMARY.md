@@ -20,15 +20,26 @@
 
 ## Calendar Use
 
-* [Calendar Use](calendar-use/calendar-use-overview.md)
+* [Calendar Use](calendar-use/calendar-use-overview/README.md)
+  * [Accessing and using School calendars](calendar-use/calendar-use-overview/accessing-and-using-school-calendars.md)
+  * [Accessing and using Cohort calendars](calendar-use/calendar-use-overview/accessing-and-using-cohort-calendars.md)
+  * [Creating Cohort calendars](calendar-use/calendar-use-overview/creating-cohort-calendars.md)
+  * [Embedding Cohort Calendars](calendar-use/calendar-use-overview/embedding-cohort-calendars.md)
 
 ## Slack Use
 
-* [Slack Use](slack-use/slack-use-overview.md)
+* [Slack Use](slack-use/slack-use-overview/README.md)
+  * [Slack users and user groups](slack-use/slack-use-overview/slack-users-and-user-groups.md)
+  * [Channel Management](slack-use/slack-use-overview/channel-management.md)
+  * [Behavior and use policies](slack-use/slack-use-overview/behavior-and-use-policies.md)
+  * [Enforcement](slack-use/slack-use-overview/enforcement.md)
 
 ## Data Management
 
-* [Data Management](data-management/data-management-overview.md)
+* [Data Management](data-management/data-management-overview/README.md)
+  * [Instruction Reports](data-management/data-management-overview/instruction-reports.md)
+  * [Academic Reporting and Feedback](data-management/data-management-overview/academic-reporting-and-feedback.md)
+  * [Student Services](data-management/data-management-overview/student-services.md)
 
 ## Backmatter
 
