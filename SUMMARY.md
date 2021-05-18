@@ -12,7 +12,11 @@
 
 ## Learning Management Systems \(LMS\)
 
-* [Learning Management Systems \(LMS\)](learning-management-systems-lms/learning-management-systems-lms-overview.md)
+* [Learning Management Systems \(LMS\)](learning-management-systems-lms/learning-management-systems-lms-overview/README.md)
+  * [Course Setup](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup.md)
+  * [Course Content Management](learning-management-systems-lms/learning-management-systems-lms-overview/course-content-management.md)
+  * [New Cohort Process](learning-management-systems-lms/learning-management-systems-lms-overview/new-cohort-process.md)
+  * [Cohort Staff Transition Playbook](learning-management-systems-lms/learning-management-systems-lms-overview/cohort-staff-transition-playbook.md)
 
 ## Calendar Use
 
@@ -26,7 +30,8 @@
 
 * [Data Management](data-management/data-management-overview.md)
 
-## Sandbox
+## Backmatter
 
-* [Curriculum Page](sandbox/curriculum-page.md)
+* [Platform Access](backmatter/platform-access.md)
+* [Maintaining this documentation](backmatter/maintaining-this-documentation.md)
 

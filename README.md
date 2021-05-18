@@ -13,7 +13,7 @@ description: >-
 * Curriculum review process
 * Curriculum development resources
 
-\*\*\*\*[**LMS Management**](learning-management-systems-lms/learning-management-systems-lms-overview.md)
+\*\*\*\*[**LMS Management**](learning-management-systems-lms/learning-management-systems-lms-overview/)
 
 * Course Setup
 * Course Content Management
@@ -40,6 +40,11 @@ description: >-
 * Instruction Reports
 * Academic Reporting and Feedback
 * Student Services
+
+Appendices
+
+* About this documentation
+* Maintaining this documentation
 
 \*\*\*\*
 
