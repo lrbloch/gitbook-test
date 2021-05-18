@@ -46,3 +46,7 @@
 * [Platform Access](backmatter/platform-access.md)
 * [Maintaining this documentation](backmatter/maintaining-this-documentation.md)
 
+---
+
+* [API Methods](api-methods.md)
+
