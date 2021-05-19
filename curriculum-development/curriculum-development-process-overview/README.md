@@ -8,18 +8,17 @@ description: >-
 
 In this section:
 
-* [Curriculum development roles](untitled.md)
-* [Curriculum development process](curriculum-development-process.md)
-* [Curriculum review process](curriculum-review-process.md)
-* [Curriculum development resources](curriculum-development-resouces.md)
+{% page-ref page="untitled.md" %}
+
+{% page-ref page="curriculum-development-process.md" %}
+
+{% page-ref page="curriculum-review-process.md" %}
+
+{% page-ref page="curriculum-development-resouces.md" %}
 
 ## Overview
 
-We use backwards design and agile methodology to design and develop curriculum through iteration.
+Curriculum Development is a shared responsibility between Product, Learning Science, and Instruction teams. We use [backwards design](https://www.cultofpedagogy.com/backward-design-basics/), [ADDIE](https://www.iddblog.org/addie-vs-agile-model-an-instructional-designers-perspective/), and Agile methods to design and develop curriculum.
 
-The following sections describe...
-
-
-
-
+The following sections describe curriculum development roles and processes, as well as the review process.
 

@@ -10,7 +10,7 @@ description: >-
 
 This is a **living document** intended to be a centralized resource for Academic processes. Its best use will be frequent: its delivery should be clear, concise, and actionable.
 
-The primary focus of these pages is to document technical capabilities and operational processes that must be maintained in order to run our school. While much of this documentation is useful to the entire company, it will avoid describing non-academic operational processes, such as Admissions, Marketing, and Finance. Background information explaining the state of process development will be included, when possible.
+The primary focus of these pages is to document technical capabilities and operational processes that must be maintained in order to run our school. While much of this documentation is useful to the entire company, it will avoid describing non-academic operational processes, like Marketing, Admissions, and Finance activities. Background information explaining the state of process development may be included, when possible.
 
 ### Contents
 

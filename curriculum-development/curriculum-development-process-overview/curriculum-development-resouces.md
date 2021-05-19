@@ -1,2 +1,2 @@
-# Curriculum development resouces
+# Curriculum development resources
 

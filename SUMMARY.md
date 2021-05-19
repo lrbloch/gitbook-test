@@ -8,7 +8,7 @@
   * [Curriculum development roles](curriculum-development/curriculum-development-process-overview/untitled.md)
   * [Curriculum development process](curriculum-development/curriculum-development-process-overview/curriculum-development-process.md)
   * [Curriculum review process](curriculum-development/curriculum-development-process-overview/curriculum-review-process.md)
-  * [Curriculum development resouces](curriculum-development/curriculum-development-process-overview/curriculum-development-resouces.md)
+  * [Curriculum development resources](curriculum-development/curriculum-development-process-overview/curriculum-development-resouces.md)
 
 ## Learning Management Systems \(LMS\)
 
