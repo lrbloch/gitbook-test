@@ -34,7 +34,7 @@ The primary focus of these pages is to document technical capabilities and opera
 {% endtab %}
 
 {% tab title="Calendar" %}
-#### Calendar use
+#### [Calendar Use](calendar-use/calendar-use-overview/)
 
 * [Accessing and using School calendars](calendar-use/calendar-use-overview/accessing-and-using-school-calendars.md)
 * [Accessing and using Cohort calendars](calendar-use/calendar-use-overview/accessing-and-using-cohort-calendars.md)

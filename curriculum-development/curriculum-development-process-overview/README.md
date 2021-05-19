@@ -6,7 +6,11 @@ description: >-
 
 # Curriculum Development
 
-In this section:
+## Overview
+
+Curriculum Development is a shared responsibility between Product, Learning Science, and Instruction teams. We use [backwards design](https://www.cultofpedagogy.com/backward-design-basics/), [ADDIE](https://www.iddblog.org/addie-vs-agile-model-an-instructional-designers-perspective/), and Agile methods to design and develop curriculum.
+
+The following sections describe curriculum development roles and processes, as well as the review process and using the Gatsby app.
 
 {% page-ref page="untitled.md" %}
 
@@ -15,10 +19,4 @@ In this section:
 {% page-ref page="curriculum-review-process.md" %}
 
 {% page-ref page="curriculum-development-resouces.md" %}
-
-## Overview
-
-Curriculum Development is a shared responsibility between Product, Learning Science, and Instruction teams. We use [backwards design](https://www.cultofpedagogy.com/backward-design-basics/), [ADDIE](https://www.iddblog.org/addie-vs-agile-model-an-instructional-designers-perspective/), and Agile methods to design and develop curriculum.
-
-The following sections describe curriculum development roles and processes, as well as the review process.
 
