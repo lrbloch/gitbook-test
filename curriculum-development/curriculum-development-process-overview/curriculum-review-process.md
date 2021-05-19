@@ -16,6 +16,14 @@ While there are many points in the curriculum development process where errors c
 * Training as necessary
 * Access to the curriculum repository. **Contact your manager for access.**
 
+**Methods:**
+
+Curriculum is "live" when it has been added to Canvas and published. 
+
+For material that **is** **not** **live**: Using Git, make PR requests to `develop`.
+
+For material that **is** **live**: Using Slack, post change requests to the project channel \(eg., \#mern-curriculum or \#ata-curriculum\). The LMS Administrator and Curriculum Developers will collaborate to triage and execute changes.
+
 ### **Process**
 
 1. Curriculum developers move Asana cards to "Ready to Review", when the content described by the card is complete. At the same time, content is marked "Ready to Review" in the Gatsby app.
@@ -28,4 +36,6 @@ While there are many points in the curriculum development process where errors c
 8. The LMS Administrator will notify relevant instruction teams of completed content via Slack.
 9. Instruction Teams will review content prior to publishing for students, testing functionality and making pull requests as necessary.
 10. **The Instruction Team should escalate live errors to the LMS Administrator**, who will support as able or escalate to Curriculum Developers or other appropriate parties as necessary.
+
+
 

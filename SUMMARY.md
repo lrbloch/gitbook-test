@@ -8,7 +8,10 @@
   * [Curriculum development roles](curriculum-development/curriculum-development-process-overview/untitled.md)
   * [Curriculum development process](curriculum-development/curriculum-development-process-overview/curriculum-development-process.md)
   * [Curriculum review process](curriculum-development/curriculum-development-process-overview/curriculum-review-process.md)
-  * [Curriculum development resources](curriculum-development/curriculum-development-process-overview/curriculum-development-resouces.md)
+  * [Curriculum development resources](curriculum-development/curriculum-development-process-overview/curriculum-development-resouces/README.md)
+    * [Step-by-step: Editing the Curriculum with Git](curriculum-development/curriculum-development-process-overview/curriculum-development-resouces/step-by-step-editing-the-curriculum-with-git.md)
+    * [Step-by-step: Creating a Syllabus Document](curriculum-development/curriculum-development-process-overview/curriculum-development-resouces/step-by-step-creating-a-syllabus-document.md)
+    * [Step-by-step: Changing Content Status](curriculum-development/curriculum-development-process-overview/curriculum-development-resouces/step-by-step-changing-content-status.md)
 
 ## Learning Management Systems \(LMS\)
 

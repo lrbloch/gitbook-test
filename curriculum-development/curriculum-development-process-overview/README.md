@@ -18,5 +18,5 @@ The following sections describe curriculum development roles and processes, as w
 
 {% page-ref page="curriculum-review-process.md" %}
 
-{% page-ref page="curriculum-development-resouces.md" %}
+{% page-ref page="curriculum-development-resouces/" %}
 
