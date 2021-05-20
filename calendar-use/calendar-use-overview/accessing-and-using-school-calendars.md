@@ -2,7 +2,7 @@
 
 ## The Academic Calendar
 
-The academic calendar is the definitive source for when students should be in class. It includes orientation, term start/end dates, holidays, and breaks. All students and staff are invited to this calendar, and it is accessible to students via Kenzie Student Experience in myKenzie.
+The academic calendar is the source for critical Academic dates. It includes Orientation, term start/end dates, holidays, and breaks. All students and staff are invited to this calendar, and it is accessible to students via their courses in MyKenzie as well as through their own Google calendars.
 
 ### Accessing the Academic Calendar
 
