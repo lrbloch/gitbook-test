@@ -19,9 +19,7 @@ Canvas Users include:
 * Studio - data integrations, process automations
 * Operations - reporting
 
-{% page-ref page="course-setup.md" %}
-
-{% page-ref page="course-content-management.md" %}
+{% page-ref page="course-setup/" %}
 
 {% page-ref page="new-cohort-process.md" %}
 

@@ -16,8 +16,11 @@
 ## Learning Management Systems \(LMS\)
 
 * [Learning Management Systems \(LMS\)](learning-management-systems-lms/learning-management-systems-lms-overview/README.md)
-  * [Course Setup](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup.md)
-  * [Course Content Management](learning-management-systems-lms/learning-management-systems-lms-overview/course-content-management.md)
+  * [Course Setup](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup/README.md)
+    * [Creating a New Course](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup/creating-a-new-course.md)
+    * [Creating and Editing Modules](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup/creating-and-editing-modules.md)
+    * [Creating and Editing Content](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup/creating-and-editing-content.md)
+    * [Rubrics](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup/rubrics.md)
   * [New Cohort Process](learning-management-systems-lms/learning-management-systems-lms-overview/new-cohort-process.md)
   * [Cohort Staff Transition Playbook](learning-management-systems-lms/learning-management-systems-lms-overview/cohort-staff-transition-playbook.md)
 

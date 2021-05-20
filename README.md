@@ -27,8 +27,7 @@ The primary focus of these pages is to document technical capabilities and opera
 {% tab title="LMS" %}
 #### [LMS Management](learning-management-systems-lms/learning-management-systems-lms-overview/)
 
-* [Course Setup](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup.md)
-* [Course Content Management](learning-management-systems-lms/learning-management-systems-lms-overview/course-content-management.md)
+* [Course Setup](learning-management-systems-lms/learning-management-systems-lms-overview/course-setup/)
 * [New Cohort Process](learning-management-systems-lms/learning-management-systems-lms-overview/new-cohort-process.md)
 * [Cohort Staff Transition Playbook](learning-management-systems-lms/learning-management-systems-lms-overview/cohort-staff-transition-playbook.md)
 {% endtab %}
