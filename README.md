@@ -2,9 +2,7 @@
 description: Processes for Curriculum Development and Academic Operations
 ---
 
-# Process Documentation
-
-## 👋 Welcome!
+# 👋 Welcome!
 
 This is a **living document** intended to be a centralized resource for Academic processes.
 
