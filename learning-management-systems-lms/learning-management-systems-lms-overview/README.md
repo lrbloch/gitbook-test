@@ -4,11 +4,11 @@
 
 We use Canvas as our Learning Management System. As a platform, Canvas stores, organizes, and displays courses, course content, assignments, grades, and feedback for learners and instructors. While Slack and Zoom feature heavily in a Learner's day-to-day experience as communication tools, the LMS is the hub of academic activity on a daily basis.
 
-**Courses**
+### Courses
 
 Canvas Courses are Canvas's primary delivery method: when learners are invited to a course, they gain access to all of its material and the ability to submit assignments and receive grades.
 
-**Users**
+### Users
 
 Canvas Users include:
 
@@ -18,6 +18,10 @@ Canvas Users include:
 * Product and Learning Science - implementing and improving curriculum and processes
 * Studio - data integrations, process automations
 * Operations - reporting
+
+### LMS Administrator
+
+Primary operator for LMS management: course settings, implementation of new material, and documentation of LMS processes. Tier 1 LMS support for Instruction staff.
 
 {% page-ref page="course-setup/" %}
 

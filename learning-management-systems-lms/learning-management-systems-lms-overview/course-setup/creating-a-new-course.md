@@ -10,9 +10,9 @@ Most Canvas Courses at Kenzie are created through duplication: we clone previous
 
 ### Settings: 
 
-* **Name**: the full name of the course, visible on the course list and in e-mails.
-* **Course** **Code**: the "breadcrumb" at the top of pages, and an encodable data field for Studio operations. We currently do not use the Course Code in a uniform way.
-* **Start Date, End Date:** Set these dates accordingly, ensuring they match days of the week to the new period. This will ensure accurate date adjustment.
+* **Name**: The full name of the course, visible on the course list and in e-mails.
+* **Course** **Code**: The "breadcrumb" at the top of pages, and an encodable data field for API operations. We currently do not use the Course Code in a uniform way.
+* **Start Date, End Date:** Set these dates accordingly, ensuring they match days of the week to the new course period. This will ensure accurate date adjustment and course conclusion.
 * **Term:** Academy enrollments use 13-week Grading Periods and are scheduled according to yearly academic terms. See **Terms and Grading Periods**, below.
 *  **Adjust Events and Due Dates**: Usually this will be selected, as we rarely have two cohorts using two separate courses in the same time period. 
 * **Date adjustment:** If a course is following a similar schedule, it may be useful to shift dates. If the schedule is sufficiently different \(or section designations will be different\), it may be more efficient to Remove due dates, and add them weekly instead.
@@ -32,5 +32,9 @@ This structure is important for partnerships and compliance.
 
 {% hint style="info" %}
 Presently, Amazon CC cohorts have irregular start dates and do not utilize Grading Periods and Terms.
+{% endhint %}
+
+{% hint style="warning" %}
+Courses that do not use terms or end dates should be **concluded** manually. **Concluded** courses enter a read-only state, preventing staff from modifying grades and students from creating new submissions.
 {% endhint %}
 

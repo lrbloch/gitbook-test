@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Process Documentation Overview](README.md)
+* [Process Documentation](README.md)
 
 ## Curriculum Development
 

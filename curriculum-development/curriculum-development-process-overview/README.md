@@ -1,9 +1,3 @@
----
-description: >-
-  This page describes the curriculum development process and guidance for using
-  this documentation
----
-
 # Curriculum Development
 
 ## Overview
