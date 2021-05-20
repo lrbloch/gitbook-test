@@ -40,13 +40,11 @@ The Instructional Designer will assist with guiding how the curriculum is teachi
 
 ### Content Review
 
-Once the content has been completed, then it will be reviewed by the **Subject Matter Expert** and a **Copy Editor**.
+Once the content has been completed, then it will be reviewed by the **Subject Matter Expert** and a **Copy Editor**. They will directly make changes to fix typos, errors, or improve content delivery.
 
-They will directly make changes to fix typos, errors, or improve content delivery.
+If any major changes are needed, then content will be pushed back to the Content Creation team. Once content is reviewed, then it can be marked "DONE" and be ready for deployment to our LMS.
 
-If any major changes are needed, then content will be pushed back to the Content Creation team.
-
-Once content is reviewed, then it can be marked "DONE" and be ready for deployment to our LMS.
+See [Curriculum Review Process](curriculum-review-process.md) for a detailed description.
 
 
 
