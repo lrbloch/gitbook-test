@@ -96,7 +96,7 @@ This table documents key academic dates for currently enrolled cohorts.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Pod Beryllium</td>
+      <td style="text-align:left">Pod: Beryllium</td>
       <td style="text-align:left">CC</td>
       <td style="text-align:left">5/27/2021</td>
       <td style="text-align:left">11/19/2021</td>
